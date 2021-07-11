@@ -1,39 +1,3 @@
-== xPerson Lite ==
-Author: SketchThemes, tikendramaitry
-Author URI: https://sketchthemes.com/
-License: GNU General Public License v3.0
-License URI: https://www.gnu.org/licenses/gpl-3.0.html
-Requires at least: 3.8
-Tested up to: 4.7.3
-Stable tag: 1.0.3
-
-== Description ==
-xPerson Lite is a just launched clean, creative Portfolio WordPress theme which builds a stunning resume and packs power in your personal portfolio site, fashion, photography, CV and music events. Now showcase your portfolio like you've never done before!
-
-=========================
-=		Theme Setup		=
-=========================
-1. First, install and activate the theme.
-2. Create pages say
-	Home - Add details about yourself or content of your choice..
-	Works - Add your portfolio, services or works etc..
-	Blog - For posts
-3. Settings->Reading
-	Set your site static front page and posts page to Home and Blog respectively.
-4. xPerson Options->Static front page settings
-	Select the timeline post category.
-	Set the landing page.
-5. To create smooth scroll links to timeline and landing page section configure the menu. Refer - https://sketchthemes.com/documentation/xperson/xperson-lite-menu-config.png
-
-======================
-=		Support		 =
-======================
-If you have any difficulties or issues with the theme then :-
-1. Raise your support ticket on https://wordpress.org/support/theme/xperson-lite/ or Contact theme author on https://sketchthemes.com/.
-
-======================
-=		Credits		 =
-======================
 
 == PHP ==
 * The TGM Plugin Activation library is licensed under the GPL-2.0 or later license. - https://tgmpluginactivation.com/
